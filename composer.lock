@@ -1,0 +1,18 @@
+{
+    "_readme": [
+        "PHP runtime requirements for this application."
+    ],
+    "content-hash": "adc392ef7340a30855efcdacc40133fd",
+    "packages": [],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {},
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "ext-mbstring": "*"
+    },
+    "platform-dev": {},
+    "plugin-api-version": "2.9.0"
+}
